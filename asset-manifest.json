@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-cra-demo/static/css/main.35def7f6.css",
+    "main.js": "/react-cra-demo/static/js/main.de7864a4.js",
+    "index.html": "/react-cra-demo/index.html",
+    "main.35def7f6.css.map": "/react-cra-demo/static/css/main.35def7f6.css.map",
+    "main.de7864a4.js.map": "/react-cra-demo/static/js/main.de7864a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35def7f6.css",
+    "static/js/main.de7864a4.js"
+  ]
+}
