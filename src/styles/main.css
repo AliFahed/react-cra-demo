@@ -1,0 +1,16 @@
+* {
+  background: rgb(0, 0, 58);
+  color: white;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 700px;
+  font-size: 24px;
+}
+
+.demo {
+  border-bottom: 2px solid #fff;
+}
